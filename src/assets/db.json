@@ -2,17 +2,17 @@
     "lists": [{
             "id": 1,
             "name": "Продажи",
-            "colorId": 5
+            "colorId": 2
         },
         {
             "id": 2,
             "name": "Фронтенд",
-            "colorId": 4
+            "colorId": 3
         },
         {
             "id": 3,
             "name": "Фильмы и сериалы",
-            "colorId": 3
+            "colorId": 4
         },
         {
             "id": 4,
@@ -22,17 +22,17 @@
         {
             "id": 5,
             "name": "Личное",
-            "colorId": 1
+            "colorId": 6
         },
         {
+            "id": 6,
             "name": "Спорт",
-            "colorId": 3,
-            "id": 6
+            "colorId": 8
         },
         {
+            "id": 7,
             "name": "Курс по ReactJS ToDo",
-            "colorId": 7,
-            "id": 7
+            "colorId": 7
         }
     ],
     "tasks": [{
@@ -128,7 +128,6 @@
     ],
     "colors": [{
             "id": 1,
-
             "hex": "#B6E6BD",
             "name": "lime"
         },
@@ -149,7 +148,6 @@
         },
         {
             "id": 5,
-
             "hex": "#FF6464",
             "name": "red"
         },
@@ -165,7 +163,6 @@
         },
         {
             "id": 8,
-
             "hex": "#110133",
             "name": "black"
         }
